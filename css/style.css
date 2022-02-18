@@ -1,0 +1,214 @@
+body{
+   font-family: 'Armata', sans-serif; 
+   animation: fadeInAnimation ease 3s
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+  
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+     }
+}
+   
+   
+
+
+.homepage{
+    background-color: #FF8686;
+}
+
+li{
+    list-style-type: none;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.nav1{
+    text-decoration: none;
+    position: absolute;
+    width: 488px;
+    height: 336px;
+    left: 117px;
+    top: 71px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 100px;
+    line-height: 115px;
+    color: black;
+}
+
+.studio{
+    text-decoration: none;
+    position: absolute;
+    width: 404px;
+    height: 64px;
+    left: 122px;
+    top: 426px;
+    font-size: 48px;
+    line-height: 60px;
+    color: #000000;
+    
+}
+
+.lab{
+    text-decoration: none;
+    position: absolute;
+    width: 404px;
+    height: 64px;
+    left: 122px;
+    top: 526px;
+    font-size: 48px;
+    line-height: 60px;
+    color: #000000;
+}
+
+.classmates{
+    text-decoration: none;
+    position: absolute;
+    width: 404px;
+    height: 64px;
+    left: 122px;
+    top: 626px;
+    font-size: 48px;
+    line-height: 60px;
+}
+
+.intro{
+    position: absolute;
+    width: 751px;
+    height: 400px;
+    left: 634px;
+    top: 189px;
+    font-size: 27px;
+    line-height: 32px;
+    
+    color: #000000;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    transition: all 0.2s linear;
+}
+
+a:hover{
+    color: green;
+}
+
+.studentspg{
+    background-color: #78FFE7;
+}
+
+.jp{
+    text-decoration: none;
+    position: absolute;
+    width: 404px;
+    height: 64px;
+    left: 122px;
+    top: 626px;
+    font-size: 48px;
+    line-height: 60px;
+
+}
+
+.class2{
+    text-decoration: none;
+    position: absolute;
+    width: 488px;
+    height: 336px;
+    left: 117px;
+    top: 0px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 100px;
+    line-height: 115px;
+    color: black;
+
+}
+
+.classmates2{
+    text-decoration: none;
+    position: absolute;
+    width: 404px;
+    height: 64px;
+    left: 122px;
+    top: 426px;
+    font-size: 48px;
+    line-height: 60px;
+    color: #000000;
+
+}
+
+.studio2{
+    text-decoration: none;
+    position: absolute;
+    width: 488px;
+    height: 336px;
+    left: 117px;
+    top: 0px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 100px;
+    line-height: 115px;
+    color: black;
+
+}
+
+.studiopg{
+    background-color: #FDFF86;
+}
+
+.studio3{
+    text-decoration: none;
+    position: absolute;
+    width: 404px;
+    height: 64px;
+    left: 122px;
+    top: 526px;
+    font-size: 48px;
+    line-height: 60px;
+    color: #000000;
+
+}
+
+.lab2{
+    text-decoration: none;
+    position: absolute;
+    width: 488px;
+    height: 336px;
+    left: 117px;
+    top: 0px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 100px;
+    line-height: 115px;
+    color: black;
+
+}
+
+.labpg{
+    background-color: #8FF98D;
+}
+
+.classlist{
+    text-decoration: none;
+    position: absolute;
+    width: 488px;
+    height: 336px;
+    left: 1000px;
+    top: 700px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 115px;
+
+    color: black;
+
+}
+
